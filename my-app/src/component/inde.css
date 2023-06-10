@@ -1,0 +1,21 @@
+ul{
+    list-style-type: none;
+}
+#g{
+    text-decoration: none;
+}
+.cl{
+    text-align: center;
+}
+li:nth-child(odd){
+    background-color: pink;
+    text-align: left;
+}
+li:nth-child(even){
+    background-color: palevioletred;
+    text-align: left;
+}
+input{
+    font-size: 20px;
+    text-align: center;
+}
